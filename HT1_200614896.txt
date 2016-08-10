@@ -1,0 +1,28 @@
+PARTE I
+
+¿Qué es un sistema de control de versiones?
+
+¿Qué es un repositoriio?
+
+En el contexo de sistemas de control de versiones, definir con sus propias palabras los siguientes conceptos:
+
+	* Árbol
+	* Revisión
+	* Reléase
+	* Rama
+	* Etiqueta
+	* Vesión
+	* Commit
+	* Update
+	* Check out
+	* Merge
+
+Diferencia entre trunk y branch
+
+¿Qué es y porque es necesaria la integración continúa?
+
+Hacer un diagrama donde se explique el proceso de integración continúa
+
+PARTE II
+
+Crear un repositorio en github llamado AYD2_#Carnet, crear un branch llamado HT1_Branch1 e incluir el archivo de la hoja de trabajo sin las respuestas, crear otro branch llamado HT1_Branch2 incluir el archivo de la hoja de trabajo con todas las respuestas, hacer pull request del segundo branch HT1_Branch2 hacia el trunk.
