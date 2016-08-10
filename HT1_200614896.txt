@@ -1,0 +1,56 @@
+PARTE I
+
+¿Qué es un sistema de control de versiones?
+
+Es un sistema compuesta de políticas y que nos permite llevar el control de los cambios que se hacen a un proyecto e identificar a que corresponde la modificación (nueva funcionalidad, bug, etc), además de conocer cuándo se realizó el cambio y quién lo realizó.
+
+¿Qué es un repositorio?
+
+El lugar donde se almacenan los cambios a los archivos del proyecto.
+
+En el contexo de sistemas de control de versiones, definir con sus propias palabras los siguientes conceptos:
+
+	* Árbol
+		Los archivos de un proyecto a lo largo del tiempo, ordenadas de forma jerárquica, donde cada ramificación representa una nueva fucionalidad, versión para un cliente o con un propósito en particular.
+
+	* Revisión
+		Un número que el respositorio asigna a los archivos a fin de diferenciar una versión de un archivo con respecto de otra.
+
+	* Reléase
+		Una forma de identificar el conjunto de archivos de un proyecto que componen una versión nueva del proyecto.
+
+	* Rama
+		Línea de desarrollo paralela a la línea principal que tubo su origen en otra rama o partir del trunk.Estás nos permiten dirigir a distintos objetivos distintas versiones de un proyecto, sin causar problemas entre sí.
+
+	* Etiqueta
+		El nombre que se da a una versión del proyecto que se encuentra congelada.
+
+	* Vesión
+		Número que se asigna a una versión del proyecto, este nos indica que tanto avance se ha realizado.
+
+	* Commit
+		Comprometer los cambios hechos en un proyecto.
+
+	* Update
+		Obtener los últimos cambios del repositorio.
+
+	* Check out
+		Copiar localmente el repositorio.
+
+	* Merge
+		Unir o consolidar 2 ramas en una sola.
+
+Diferencia entre trunk y branch
+	El trunk es la línea principal de desarrollo (la original) y los branch son ramificaciones creadas a partir de esta o de otras ramificaciones.
+
+¿Qué es y porque es necesaria la integración continúa?
+
+Por que nos permite automatizar el proceso de compilación, build, pruebas y despliegue, esto nos permite ahorrar tiempo y costos a disminuir la cantidad de errores en el software, además de mostrarnos visualmente el estado del proyecto.
+
+Hacer un diagrama donde se explique el proceso de integración continúa
+
+(ver imagen que existe en el repositorio en el que se encuntra este documento).
+
+PARTE II
+
+Crear un repositorio en github llamado AYD2_#Carnet, crear un branch llamado HT1_Branch1 e incluir el archivo de la hoja de trabajo sin las respuestas, crear otro branch llamado HT1_Branch2 incluir el archivo de la hoja de trabajo con todas las respuestas, hacer pull request del segundo branch HT1_Branch2 hacia el trunk.
